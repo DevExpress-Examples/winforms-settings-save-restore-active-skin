@@ -14,9 +14,7 @@ See also: <a href="https://github.com/DevExpress-Examples/how-to-save-restore-a-
 </p>
 
 <p>
-For more information, please see the following MSDN article:<a href="http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx">Application Settings Overview</a>
+For more information, please see the following MSDN article: <a href="http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx">Application Settings Overview</a>
 </p>
-
-<br/>
 
 
