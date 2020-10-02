@@ -14,10 +14,7 @@ See also:
 <br/> <a href="https://github.com/DevExpress-Examples/how-to-save-restore-a-palette-name-t581395">How to save/restore a palette name</a>
 <br/> <a href="https://supportcenter.devexpress.com/ticket/details/t578454/svg-skins-and-palettes-faq">SVG Skins and Palettes – FAQ</a>
 <br/> <a href="https://supportcenter.devexpress.com/ticket/details/t904174/devexpress-winforms-cheat-sheet-appearances-and-skins">DevExpress WinForms Cheat Sheet - Appearances and Skins</a>
-</p>
-
-<p>
-For more information, please see the following MSDN article: <a href="http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx">Application Settings Overview</a>
+<br/> <a href="http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx">Application Settings Overview</a>
 </p>
 
 
