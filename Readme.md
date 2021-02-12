@@ -10,9 +10,10 @@
 <p>
 This example demonstrates how to persist application settings between sessions. In this project, the SkinName property is saved. 
 <br/>
-See also: 
-<br/> <a href="https://github.com/DevExpress-Examples/how-to-save-restore-a-palette-name-t581395">How to save/restore a palette name</a>
-<br/> <a href="https://supportcenter.devexpress.com/ticket/details/t578454/svg-skins-and-palettes-faq">SVG Skins and Palettes – FAQ</a>
+<b>See also:</b>
+<br/> <a href="https://github.com/DevExpress-Examples/how-to-save-restore-a-palette-name-t581395">How to save/restore a palette name</a> 
+  
+[DevExpress WinForms Troubleshooting - Skins and Skin Editor](https://go.devexpress.com/CheatSheets_WinForms_Examples_T928562.aspx)
 <br/> <a href="https://supportcenter.devexpress.com/ticket/details/t904174/devexpress-winforms-cheat-sheet-appearances-and-skins">DevExpress WinForms Cheat Sheet - Appearances and Skins</a>
 <br/> <a href="http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx">Application Settings Overview</a>
 </p>
