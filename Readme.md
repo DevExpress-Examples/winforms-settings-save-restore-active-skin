@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Skins - Save the name of the active skin and restore it the next time you rub the application
+# WinForms Skins - Save the name of the active skin and restore it the next time you run the application
 
 This example demonstrates how to persist application settings between sessions. The example saves the `SkinName` property. 
 
