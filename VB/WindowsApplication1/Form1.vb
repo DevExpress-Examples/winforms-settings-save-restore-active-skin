@@ -14,12 +14,12 @@ Namespace WindowsApplication1
         Public Sub New()
             InitializeComponent()
             Call SkinHelper.InitSkinGallery(galleryControl1)
-            UserLookAndFeel.Default.SkinName = Settings.Default(CStr("ApplicationSkinName")).ToString()
+            UserLookAndFeel.Default.SkinName = My.Settings.Default(CStr("ApplicationSkinName")).ToString()
         End Sub
 
         Private Sub Form1_FormClosing(ByVal sender As Object, ByVal e As FormClosingEventArgs)
-            Settings.Default("ApplicationSkinName") = UserLookAndFeel.Default.SkinName
-            Call Settings.Default.Save()
+            My.Settings.Default("ApplicationSkinName") = UserLookAndFeel.Default.SkinName
+            Call My.Settings.Default.Save()
         End Sub
     End Class
 End Namespace
